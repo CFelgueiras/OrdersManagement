@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/express-jwt": "0.0.42",
     "@types/jwt-decode": "^2.2.1",
-    "acorn": "^7.1.0",
+    "acorn": "^7.1.1",
     "acorn-jsx": "^5.1.0",
     "agenda": "^2.0.2",
     "agendash": "^1.0.0",
