@@ -51,7 +51,7 @@
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "mailgun-js": "^0.22.0",
     "method-override": "^3.0.0",
     "moment": "^2.23.0",
